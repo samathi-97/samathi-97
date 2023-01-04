@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samathi Sapumana</h1>
 <h3 align="center">I'm a hardworking individual who is passionate and dedicated, ready to work in challenging setups while improving skills.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samathi-97&label=Profile%20views&color=0e75b6&style=flat" alt="samathi-97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samathi-97" alt="samathi-97" /></a> </p>
-
 - 🌱 I’m currently learning **SpringBoot,MongoDB**
 
 - 📝 I regularly write articles on [https://medium.com/@samathisapumana](https://medium.com/@samathisapumana)
