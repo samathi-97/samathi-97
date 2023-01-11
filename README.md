@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,MongoDB**
 
-- 📝 I regularly write articles on [https://medium.com/@samathisapumana](https://medium.com/@samathisapumana)
+- 📝 I write articles on [https://medium.com/@samathisapumana](https://medium.com/@samathisapumana)
 
 - 📫 How to reach me **samathisapumana@gmail.com**
 
